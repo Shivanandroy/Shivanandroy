@@ -1,4 +1,4 @@
-![alt text](https://github.com/Shivanandroy/ShivanandRoy/blob/master/Howard%20Ong%20(1).png)
+![alt text](https://github.com/Shivanandroy/ShivanandRoy/blob/master/Howard%20Ong.png)
 
 
 
