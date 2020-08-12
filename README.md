@@ -1,16 +1,15 @@
-### Hi there 👋
+![alt text](https://github.com/Shivanandroy/ShivanandRoy/blob/master/Howard%20Ong.png)
 
-<!--
-**Shivanandroy/ShivanandRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#### Trying to make Machines and Humans agree on something.
+
+
+- 🔭 Deep into Deep Learning and Spirituality! 
+- 🌱 Created `CategoricalEmbedder` for encoding categorical variables via Neural Networks.
+- 👯 Currently working on something called **"AI meets Spirituality"**
+- 💬 Feel free to reach out to me on ML/DL related queries/issues/ideas @ **shivanandroy.official@gmail.com**
+- 📫 You can also find me on [Medium](https://medium.com/@snrspeaks) , [LinkedIn](www.linkedin.com/in/snrspeaks)
+
