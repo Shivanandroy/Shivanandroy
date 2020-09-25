@@ -5,6 +5,7 @@
 
 
 #### Trying to make Machines and Humans agree on something.
+#### Blog @ Shivanandroy.com
 
 
 - 🔭 Deep into Deep Learning and Spirituality! 
