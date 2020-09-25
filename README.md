@@ -5,7 +5,7 @@
 
 
 #### Trying to make Machines and Humans agree on something.
-- 👋 I write articles on Shivanandroy.com
+- 👋 I write articles on https://Shivanandroy.com
 - 🔭 Deep into Deep Learning and Spirituality! 
 - 🌱 Created `CategoricalEmbedder` for encoding categorical variables via Neural Networks.
 - 👯 Currently working on something called **"AI meets Spirituality"**
