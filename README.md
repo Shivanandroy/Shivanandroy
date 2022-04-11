@@ -13,7 +13,7 @@
 
 
 #### Trying to make Machines and Humans agree on something.
-- 👋 I write articles on <a href="https://shivanandroy.com/"><img src="https://img.shields.io/badge/Website-Shivanandroy.com-success"></a>
+- 👋 I write articles on <a href="https://shivanandroy.com/"><img src="https://img.shields.io/badge/Shivanandroy.com-success"></a>
 - 🔭 Deep into Deep Learning and Spirituality! 
 - 🌱 Created `SimpleT5` for training T5/mT5/byT5 models quickly.
 - 👯 Currently working on something called **"AI meets Spirituality"**
