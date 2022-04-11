@@ -1,5 +1,5 @@
 
-<h2>Hey There 👋</h2>
+<h1>Hey There 👋</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivanandroy&show_icons=true&hide_title=true">&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanandroy&layout=compact&langs_count=10" />
  </p>
@@ -13,9 +13,9 @@
 
 
 #### Trying to make Machines and Humans agree on something.
-- 👋 I write articles on https://Shivanandroy.com
+- 👋 I write articles on <a href="https://shivanandroy.com/"><img src="https://img.shields.io/badge/Website-Shivanandroy.com-success"></a>
 - 🔭 Deep into Deep Learning and Spirituality! 
-- 🌱 Created `CategoricalEmbedder` for encoding categorical variables via Neural Networks.
+- 🌱 Created `SimpleT5` for training T5/mT5/byT5 models quickly.
 - 👯 Currently working on something called **"AI meets Spirituality"**
 - 💬 Feel free to reach out to me on ML/DL related queries/issues/ideas @ **iamshivanandroy@gmail.com**
 - 📫 You can also find me on [Medium](https://medium.com/@snrspeaks) , [LinkedIn](https://linkedin.com/in/snrspeaks)
