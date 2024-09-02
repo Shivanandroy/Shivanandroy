@@ -9,9 +9,8 @@
   <a href="https://snrspeaks.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" alt="Twitter@adityatelange"></a>
   <a href="https://twitter.com/snrspeaks"><img src="https://img.shields.io/badge/@snrspeaks-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white" alt="Twitter@adityatelange"></a>
   <a href="https://www.linkedin.com/in/snrspeaks"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn@shivanandroy"></a>
-  <a href="https://shivanandroy.com/contact/"><img src="https://img.shields.io/badge/Contact-Me-%23000000.svg?style=plastic" alt="contactme"></a>
-  <a href="mailto:snrcodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="contactme"></a>
-  <a href="https://shivanandroy.com/"><img src="https://img.shields.io/badge/Blog-Shivanandroy.com-success?style=plastic"></a>
+  <a href="mailto:snrcodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
+
 </p>
 
 ----------
