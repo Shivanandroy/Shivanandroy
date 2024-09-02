@@ -17,9 +17,4 @@
 
 #### Trying to make Machines and Humans agree on something!
 
-- 🔭 Deep into Deep Learning and Spirituality! 
-- 🌱 Created `SimpleT5` for training T5/mT5/byT5 models quickly.
-- 👯 Currently working on something called **"AI meets Spirituality"**
-- 💬 Feel free to reach out to me on ML/DL related queries/issues/ideas @**snrcodes@gmail.com**
-
 <p align="center"> <sub>&#9660; &#9660; &#9660;</sub> &nbsp;&nbsp;&nbsp;<b><i>Open Source Work</i></b> &nbsp;&nbsp;&nbsp; <sub>&#9660; &#9660; &#9660;</sub> </p>
